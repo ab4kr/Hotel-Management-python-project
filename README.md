@@ -1,1 +1,1 @@
-# Hotel-Management-python-project
+# Hotel Management python project
